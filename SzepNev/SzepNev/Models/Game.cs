@@ -13,6 +13,7 @@ namespace SzepNev.Models
         public string Description { get; set; }
         public int Price { get; set; }
 
+
         public Game(string title, string description, int price)
         {
             Title = title;

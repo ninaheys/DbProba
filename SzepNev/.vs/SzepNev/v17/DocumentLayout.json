@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "K:\\Norina\\SzepNev\\",
+  "WorkspaceRootPath": "C:\\Users\\Diak\\Desktop\\Norina\\SzepNev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|k:\\norina\\szepnev\\szepnev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|c:\\users\\diak\\desktop\\norina\\szepnev\\szepnev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|solutionrelative:szepnev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|k:\\norina\\szepnev\\szepnev\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|solutionrelative:szepnev\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|c:\\users\\diak\\desktop\\norina\\szepnev\\szepnev\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|solutionrelative:szepnev\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|k:\\norina\\szepnev\\szepnev\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|c:\\users\\diak\\desktop\\norina\\szepnev\\szepnev\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|solutionrelative:szepnev\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|c:\\users\\diak\\desktop\\norina\\szepnev\\szepnev\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C2035-3D49-470F-859A-9DF111D10137}|SzepNev\\SzepNev.csproj|solutionrelative:szepnev\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Diak\\Desktop\\Norina\\SzepNev\\SzepNev\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "SzepNev\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Diak\\Desktop\\Norina\\SzepNev\\SzepNev\\Models\\Message.cs",
+              "RelativeToolTip": "SzepNev\\Models\\Message.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:01:25.098Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GameContext.cs",
-              "DocumentMoniker": "K:\\Norina\\SzepNev\\SzepNev\\Data\\GameContext.cs",
+              "DocumentMoniker": "C:\\Users\\Diak\\Desktop\\Norina\\SzepNev\\SzepNev\\Data\\GameContext.cs",
               "RelativeDocumentMoniker": "SzepNev\\Data\\GameContext.cs",
-              "ToolTip": "K:\\Norina\\SzepNev\\SzepNev\\Data\\GameContext.cs",
+              "ToolTip": "C:\\Users\\Diak\\Desktop\\Norina\\SzepNev\\SzepNev\\Data\\GameContext.cs",
               "RelativeToolTip": "SzepNev\\Data\\GameContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T15:33:08.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Game.cs",
-              "DocumentMoniker": "K:\\Norina\\SzepNev\\SzepNev\\Models\\Game.cs",
+              "DocumentMoniker": "C:\\Users\\Diak\\Desktop\\Norina\\SzepNev\\SzepNev\\Models\\Game.cs",
               "RelativeDocumentMoniker": "SzepNev\\Models\\Game.cs",
-              "ToolTip": "K:\\Norina\\SzepNev\\SzepNev\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Diak\\Desktop\\Norina\\SzepNev\\SzepNev\\Models\\Game.cs",
               "RelativeToolTip": "SzepNev\\Models\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T15:22:07.415Z",
               "EditorCaption": ""
@@ -54,11 +71,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "K:\\Norina\\SzepNev\\SzepNev\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diak\\Desktop\\Norina\\SzepNev\\SzepNev\\Program.cs",
               "RelativeDocumentMoniker": "SzepNev\\Program.cs",
-              "ToolTip": "K:\\Norina\\SzepNev\\SzepNev\\Program.cs*",
-              "RelativeToolTip": "SzepNev\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Diak\\Desktop\\Norina\\SzepNev\\SzepNev\\Program.cs",
+              "RelativeToolTip": "SzepNev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T15:19:23.663Z",
               "EditorCaption": ""

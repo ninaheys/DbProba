@@ -11,10 +11,11 @@ namespace SzepNev.Data
     public class GameContext:DbContext
     {
         public DbSet<Game> Games { get; set; }
+        public DbSet<Message> Messages { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string conn = "Server=localhost; User ID=root; Password=; Database=GamesDB";
+            string conn = "Server=172.16.16.148; User ID=alma; Password=alma; Database=GamesDB";
             optionsBuilder.UseMySql(conn, ServerVersion.AutoDetect(conn));
         }
     }

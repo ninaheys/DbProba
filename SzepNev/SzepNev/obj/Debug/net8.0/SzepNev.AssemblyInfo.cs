@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SzepNev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffc15ae752d8171450d5805be56ece6c43ae1591")]
 [assembly: System.Reflection.AssemblyProductAttribute("SzepNev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SzepNev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
