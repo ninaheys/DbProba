@@ -1,0 +1,17 @@
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\bin\Debug\net8.0-windows\Szamosszeado.exe
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\bin\Debug\net8.0-windows\Szamosszeado.deps.json
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\bin\Debug\net8.0-windows\Szamosszeado.runtimeconfig.json
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\bin\Debug\net8.0-windows\Szamosszeado.dll
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\bin\Debug\net8.0-windows\Szamosszeado.pdb
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\Szamosszeado.Form1.resources
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\Szamosszeado.csproj.GenerateResource.cache
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\Szamosszeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\Szamosszeado.AssemblyInfoInputs.cache
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\Szamosszeado.AssemblyInfo.cs
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\Szamosszeado.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\Szamosszeado.sourcelink.json
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\Szamosszeado.dll
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\refint\Szamosszeado.dll
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\Szamosszeado.pdb
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\Szamosszeado.genruntimeconfig.cache
+C:\Users\Diak\Desktop\Norina\Desktop1\Szamosszeado\obj\Debug\net8.0-windows\ref\Szamosszeado.dll

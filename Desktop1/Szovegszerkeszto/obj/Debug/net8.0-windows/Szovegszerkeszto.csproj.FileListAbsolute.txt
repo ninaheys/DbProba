@@ -1,0 +1,17 @@
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\bin\Debug\net8.0-windows\Szovegszerkeszto.exe
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\bin\Debug\net8.0-windows\Szovegszerkeszto.deps.json
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\bin\Debug\net8.0-windows\Szovegszerkeszto.runtimeconfig.json
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\bin\Debug\net8.0-windows\Szovegszerkeszto.dll
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\bin\Debug\net8.0-windows\Szovegszerkeszto.pdb
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\Szovegszerkeszto.Form1.resources
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\Szovegszerkeszto.csproj.GenerateResource.cache
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\Szovegszerkeszto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\Szovegszerkeszto.AssemblyInfoInputs.cache
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\Szovegszerkeszto.AssemblyInfo.cs
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\Szovegszerkeszto.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\Szovegszerkeszto.sourcelink.json
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\Szovegszerkeszto.dll
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\refint\Szovegszerkeszto.dll
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\Szovegszerkeszto.pdb
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\Szovegszerkeszto.genruntimeconfig.cache
+C:\Users\Diak\Desktop\Norina\Desktop1\Szovegszerkeszto\obj\Debug\net8.0-windows\ref\Szovegszerkeszto.dll
